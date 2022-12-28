@@ -23,6 +23,7 @@ const projects = [
     img: project01,
     imgBig: project01Big,
     gitHubLink: "https://github.com/duisenbekernur/petflix-next",
+    webLink: 'https://petflix-tau.vercel.app/'
   },
   {
     title: "Asyl mura",
