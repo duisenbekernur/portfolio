@@ -33,11 +33,18 @@ const projects = [
     gitHubLink: "https://github.com/duisenbekernur/asyl-mura",
   },
   {
-    title: "Netflix clone",
-    skills: "Next, React, TMDb, TailwindCss, Firebase",
+    title: "Marketplace",
+    skills: "React, Django REST Framework, SQlite 3, Google Maps API",
     img: project03,
     imgBig: project03Big,
-    gitHubLink: "https://github.com/duisenbekernur/petflix-next",
+    gitHubLink: "https://github.com/duisenbekernur/hackaton",
+  },
+  {
+    title: "Spotify clone",
+    skills: "React, Tailwind",
+    img: project04,
+    imgBig: project04Big,
+    gitHubLink: "https://github.com/duisenbekernur/spotify",
   },
 ];
 
