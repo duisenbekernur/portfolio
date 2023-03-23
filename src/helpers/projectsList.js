@@ -51,7 +51,7 @@ const projects = [
     skills: "NextJS",
     img: project05,
     imgBig: project05Big,
-    webLink: "https://nimbl-theta.vercel.app/",
+    webLink: "https://nimbl-git-ernur-duisenbekernur.vercel.app/",
   },
 ];
 
